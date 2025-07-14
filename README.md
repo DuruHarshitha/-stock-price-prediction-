@@ -56,11 +56,3 @@ To build a predictive model that can forecast stock prices using features like O
 4. Run all cells to process data, train models, and generate predictions
 
 ---
-
-## 📄 License
-
-[MIT License](LICENSE)
-
-
----
-
